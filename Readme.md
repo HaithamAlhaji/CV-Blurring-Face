@@ -1,6 +1,6 @@
 # Blurring Face
 
-![](https://github.com/HaithamAlhaji/CV-Truck-Stop/blob/main/footages/result.gif)
+![](https://github.com/HaithamAlhaji/CV-Blurring-Face/blob/main/images/example.gif)
 
 This is a simple Python application that captures video from the default camera, detects faces in the frames using OpenCV and the cvzone library, and then applies a blur effect to the detected faces. The application continuously processes frames and displays the video stream with any detected faces blurred in real-time.
 
